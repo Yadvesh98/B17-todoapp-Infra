@@ -15,3 +15,10 @@ output "rg_ids" {
 #   location                 = azurerm_resource_group.rg.location
 #   account_tier             = "Standard"
 #   account_replication_type = "LRS"
+
+
+# Garam Chai + Pakode – Classic combo. Thoda ginger tea, thoda aloo-pyaaz pakoda, aur bas... mood ban gaya.
+
+# Old Songs + Rain – "Rimjhim gire saawan..." type gaane lagao, earphones pe ya speaker pe, aur khidki ke paas baith jao.
+
+# Diary likhna ya journaling – Mausam thoda emotional sa hota hai, toh likh daalo apne jazbaat.
